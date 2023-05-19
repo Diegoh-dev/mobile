@@ -1,5 +1,13 @@
 {
   "extends":[
   "@rocketseat/eslint-config/react"
+  ],
+  "prettier/prettier": [
+    "error",
+    {},
+    {
+      "usePrettierrc": false
+    }
   ]
+
 }

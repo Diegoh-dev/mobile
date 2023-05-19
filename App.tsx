@@ -1,5 +1,5 @@
-import { StatusBar } from 'expo-status-bar';
-import { Text, View } from 'react-native';
+import { StatusBar } from 'expo-status-bar'
+import { Text, View } from 'react-native'
 
 export default function App() {
   return (
@@ -7,7 +7,7 @@ export default function App() {
       <Text className="text-zinc-50 font-bold text-5xl">Hello World!</Text>
       <StatusBar style="light" translucent/>
     </View>
-  );
+  )
 }
 
 // const styles = StyleSheet.create({
