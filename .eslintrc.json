@@ -8,6 +8,9 @@
     {
       "usePrettierrc": false
     }
-  ]
+  ],
+  "rules": {
+    "camelcase":"off"
+  }
 
 }
